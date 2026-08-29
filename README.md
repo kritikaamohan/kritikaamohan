@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Kritika</h1>
-<h3 align="center">I like to turn messy data into stories worth listening to 📊✨</h3>
+<h3 align="center">I turn messy data into stories worth listening to 📊✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Machine+Learning;Building+models+that+predict+the+future;Currently+debugging...+everything;Powered+by+coffee+and+curiosity+%E2%98%95" alt="Typing SVG" />
@@ -66,11 +66,22 @@ Because "you might also like" shouldn't be guesswork.
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
+
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://img.shields.io/github/followers/kritikaamohan?label=Followers&style=for-the-badge&color=6C63FF"> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kritikaamohan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=6C63FF"> </p> <p align="center"> <img src="https://img.shields.io/github/stars/kritikaamohan/Customer-Lifetime-Value-Analysis?label=%E2%AD%90%20CLV%20Analysis&style=flat-square"> <img src="https://img.shields.io/github/stars/kritikaamohan/music_popularity_prediction?label=%E2%AD%90%20Music%20Popularity&style=flat-square"> <img src="https://img.shields.io/github/stars/kritikaamohan/housing_price_prediction_api?label=%E2%AD%90%20Housing%20API&style=flat-square"> <img src="https://img.shields.io/github/stars/kritikaamohan/recommendation_system?label=%E2%AD%90%20Recommender&style=flat-square"> </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kritikaamohan?label=Followers&style=for-the-badge&color=6C63FF">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kritikaamohan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=6C63FF">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/kritikaamohan/Customer-Lifetime-Value-Analysis?label=%E2%AD%90%20CLV%20Analysis&style=flat-square">
+  <img src="https://img.shields.io/github/stars/kritikaamohan/music_popularity_prediction?label=%E2%AD%90%20Music%20Popularity&style=flat-square">
+  <img src="https://img.shields.io/github/stars/kritikaamohan/housing_price_prediction_api?label=%E2%AD%90%20Housing%20API&style=flat-square">
+  <img src="https://img.shields.io/github/stars/kritikaamohan/recommendation_system?label=%E2%AD%90%20Recommender&style=flat-square">
+</p>
+
 ---
 
 ### 🌐 Let's Connect
