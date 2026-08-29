@@ -71,11 +71,7 @@ Because "you might also like" shouldn't be guesswork.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kritikaamohan&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaamohan&layout=compact" />
-</p>
-
+<p align="center"> <img src="https://img.shields.io/github/followers/kritikaamohan?label=Followers&style=for-the-badge&color=6C63FF"> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kritikaamohan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=6C63FF"> </p> <p align="center"> <img src="https://img.shields.io/github/stars/kritikaamohan/Customer-Lifetime-Value-Analysis?label=%E2%AD%90%20CLV%20Analysis&style=flat-square"> <img src="https://img.shields.io/github/stars/kritikaamohan/music_popularity_prediction?label=%E2%AD%90%20Music%20Popularity&style=flat-square"> <img src="https://img.shields.io/github/stars/kritikaamohan/housing_price_prediction_api?label=%E2%AD%90%20Housing%20API&style=flat-square"> <img src="https://img.shields.io/github/stars/kritikaamohan/recommendation_system?label=%E2%AD%90%20Recommender&style=flat-square"> </p>
 ---
 
 ### 🌐 Let's Connect
