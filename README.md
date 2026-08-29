@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Kritika</h1>
-<h3 align="center">I turn messy data into stories worth listening to 📊✨</h3>
+<h3 align="center">I like to turn messy data into stories worth listening to 📊✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Machine+Learning;Building+models+that+predict+the+future;Currently+debugging...+everything;Powered+by+coffee+and+curiosity+%E2%98%95" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 I'm a data enthusiast who enjoys asking *"but why?"* one dataset at a time. From predicting customer value to guessing which song becomes the next big hit, I like building models that make sense of chaos.
 
-- 🔍 Currently digging into **Machine Learning & Predictive Analytics**
+- 🔍 Currently digging into **Data Science, Machine Learning & Predictive Analytics**
 - 🧪 Learning by building — every repo here started as a "let's see if this works" experiment
 - 🎧 Fun fact: one of my models tries to predict what makes a song popular
 - 💡 Open to collaborating on data-driven projects
